@@ -1,0 +1,98 @@
+{
+  "videos": [
+    {
+      "id": "e97e",
+      "caption": "React.JS",
+      "imageUrl": "https://media2.giphy.com/media/eNAsjO55tPbgaor7ma/source.gif",
+      "youtubeLink": "https://www.youtube.com/embed/SqcY0GlETPk"
+    },
+    {
+      "id": "47de",
+      "caption": "JavaScript",
+      "imageUrl": "https://logosdownload.com/logo/javascript-logo-big.png",
+      "youtubeLink": "https://www.youtube.com/embed/lfmg-EJ8gm4"
+    },
+    {
+      "id": "e746",
+      "caption": "HTML & CSS",
+      "imageUrl": "https://i.ytimg.com/vi/eqShudUzHJc/maxresdefault.jpg",
+      "youtubeLink": "https://www.youtube.com/embed/HGTJBPNC-Gw"
+    },
+    {
+      "id": "b76f",
+      "caption": "Bootstrap",
+      "imageUrl": "https://cdn.dribbble.com/users/595/screenshots/14417863/media/8913cc1aae5de0cc7afdd1727e5582c0.png",
+      "youtubeLink": "https://www.youtube.com/embed/-qfEOE4vtxE"
+    },
+    {
+      "id": "c21b",
+      "caption": "Angular.JS",
+      "imageUrl": "https://www.inpows.com/media/2020/04/Angular.png",
+      "youtubeLink": "https://www.youtube.com/embed/k5E2AVpwsko"
+    },
+    {
+      "id": "d691",
+      "caption": "Kuthanthram Song",
+      "imageUrl": "https://i.ytimg.com/vi/9AizchSQURA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDEcCOFSFq6R4Nff89C-aKWtspxOQ",
+      "youtubeLink": "https://www.youtube.com/embed/9AizchSQURA"
+    },
+    {
+      "id": "873f",
+      "caption": "Ajitha Hare",
+      "imageUrl": "https://i.ytimg.com/vi/d6pZAj6YLsk/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIFwoTzAP&rs=AOn4CLCq3TOY_GxptKKx9zSfwI0H5D2LzQ",
+      "youtubeLink": "https://www.youtube.com/embed/d6pZAj6YLsk"
+    }
+  ],
+  "categories": [
+    {
+      "id": "01c2",
+      "categoryName": "Full Stack Development",
+      "allVideos": [
+        {
+          "id": "c21b",
+          "caption": "Angular.JS",
+          "imageUrl": "https://www.inpows.com/media/2020/04/Angular.png",
+          "youtubeLink": "https://www.youtube.com/embed/k5E2AVpwsko"
+        },
+        {
+          "id": "e97e",
+          "caption": "React.JS",
+          "imageUrl": "https://media2.giphy.com/media/eNAsjO55tPbgaor7ma/source.gif",
+          "youtubeLink": "https://www.youtube.com/embed/SqcY0GlETPk"
+        }
+      ]
+    },
+    {
+      "id": "18a2",
+      "categoryName": "Songs",
+      "allVideos": [
+        {
+          "id": "d691",
+          "caption": "Kuthanthram Song",
+          "imageUrl": "https://i.ytimg.com/vi/9AizchSQURA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDEcCOFSFq6R4Nff89C-aKWtspxOQ",
+          "youtubeLink": "https://www.youtube.com/embed/9AizchSQURA"
+        },
+        {
+          "id": "873f",
+          "caption": "Ajitha Hare",
+          "imageUrl": "https://i.ytimg.com/vi/d6pZAj6YLsk/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIFwoTzAP&rs=AOn4CLCq3TOY_GxptKKx9zSfwI0H5D2LzQ",
+          "youtubeLink": "https://www.youtube.com/embed/d6pZAj6YLsk"
+        }
+      ]
+    }
+  ],
+  "history": [
+    {
+      "id": "f3da",
+      "caption": "Ajitha Hare",
+      "youtubeLink": "https://www.youtube.com/embed/d6pZAj6YLsk",
+      "timeStamp": "02/28/2024, 01:09:40 PM"
+    },
+    {
+      "id": "7f02",
+      "caption": "Kuthanthram Song",
+      "youtubeLink": "https://www.youtube.com/embed/9AizchSQURA",
+      "timeStamp": "02/29/2024, 11:13:59 AM"
+    }
+  ]
+}
